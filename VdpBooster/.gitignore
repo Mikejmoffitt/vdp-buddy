@@ -1,1 +1,4 @@
 VdpBooster-backups/
+.history/
+*.lck
+fp-info-cache
